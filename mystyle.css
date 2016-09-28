@@ -1,0 +1,28 @@
+h2 {
+  padding: 30px 30px 30px 30px
+}
+
+
+.profile-img {
+  padding: 0px 0px 0px 0px;
+  margin: 20px 40px 20px 40px;
+  width: 140px;
+  border: 10px solid #cc8400;
+ }
+
+.link-img {
+  height: 60px;
+ 
+}
+
+.header-img {
+  height: 170px;
+  padding: 20px 20px 20px 20px
+}
+#header {
+  font-family: Candal, sans-serif;
+  background-color: #3232ff;
+  color: #cc8400;
+  height: 165px;
+  
+}
