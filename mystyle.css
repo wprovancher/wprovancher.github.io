@@ -1,9 +1,13 @@
 h2 {
-  padding: 30px 30px 30px 30px
+  padding: 20px 20px 20px 20px;
 }
 
 a {
-  color: #cc8400
+  color: #cc8400;
+}
+
+p {
+  color: #3232ff;
 }
 
 .profile-img {
@@ -20,6 +24,14 @@ a {
 .header-img {
   height: 170px;
   padding: 20px 20px 20px 20px
+}
+
+.left{
+  float: left;
+}
+
+.right {
+  float: right;
 }
 
 #header {
