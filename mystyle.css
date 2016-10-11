@@ -7,7 +7,7 @@ li {
 }
 
 a {
-  color: black;
+  color: gray;
 }
 
 .profile-img {
@@ -40,6 +40,10 @@ a {
 
 .text-color {
   color: black;
+}
+
+.spread {
+  padding-right: 30px;
 }
 
 #header {
